@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sinos88
+- 👋 Hi, my name is Philip
+
 - 👀 I’m interested in everything IT
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Linux
