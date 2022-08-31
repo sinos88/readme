@@ -1,9 +1,7 @@
 - 👋 Hi, my name is Philip
-
-- 👀 I’m interested in everything IT
-- 🌱 I’m currently learning Cloud
+- 👀 I love playing around with technology
 - 💞️ I’m looking to collaborate on Linux
-- 📫 How to reach me on Earth
+- 📫 You can reach me on 
 
 <!---
 sinos88/sinos88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
