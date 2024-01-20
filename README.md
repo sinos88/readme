@@ -1,7 +1,5 @@
 - 👋 Hi, my name is Philip
-- 👀 Exploring DevOPS 
-- 💞️ I’m looking to tinker on anything fun
-- 📫 You can reach me on the www 
+- 👀 I am a Snake Charmer - specifically Python
+- 💞️ Love to work on something exciting
 
-Newly created account to play around with CI/CD and exploring Python. Looking for a project that has contains something new, amazing, 
-and 'I can't believe thats not butter!'.   
+Old files iin my repo onlu ... Move along, nothing to see here!
